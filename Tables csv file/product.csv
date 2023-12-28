@@ -1,0 +1,51 @@
+product_id,inventory_id,product_name,product_category,product_subcategory,brand,Purchase_Date
+1,1001,GTK-XB90 Bluetooth Speaker,"Wireless Speakers,Powered Speakers,Portable Audio & Video",Bluetooth Speakers,Sony,2022-02-23
+2,1002,Samsung Radiant360 R1 Wi-Fi/Bluetooth Speaker WAM1500/ZA - Black (Certified Refurbished),"Wireless Speakers,Powered Speakers,Portable Audio & Video",Bluetooth Speakers,Samsung,2023-10-15
+3,1003,Next-Generation ARRIS SURFboard SB8200 DOCSIS 3.1 Cable Modem - Retail Packaging- White,"USB-to-VGA Adapters, Adapters,Computer Cable Adapters, Cable",Cable,Arris,2021-08-13
+4,1004,PDWM1904 Single-Channel Wireless System with Headset Lavalier Microphones,"Microphones, Audio, Headphones & Accessories, Headset",Microphones,Pyle Pro,2023-09-03
+5,1005,Zmodo Hd Wifi Home Security Camera Twoway Audio Motion Detection Cloud Service,"Wireless,Home Safety and Security",Safety & security,Zmodo,2022-04-19
+6,1006,"HEOS 5 Wireless Speaker System (Series 2, White)","Wireless Speakers,Powered Speakers,Portable Audio & Video,Speaker",Bluetooth Speakers,Denon,2023-05-11
+7,1007,Sony - High Power XB60 Portable Bluetooth Speaker - Black,"Wireless Speakers,Powered Speakers,Portable Audio & Video,Speaker",Bluetooth Speakers,Sony,2021-04-05
+8,1008,"Definitive Technology - W9 Dual 5-1/4 180W 2-Way Wireless Speaker (Each) for Streaming Music - Black""","Wireless Speakers,Powered Speakers,Portable Audio & Video,Speaker",Bluetooth Speakers,Definitive Technology,2021-08-06
+9,1009,Google Daydream View - VR Headset (Slate),"Microphones, Audio, Headphones & Accessories, Headset",Headset,Google,2023-12-01
+10,1010,Turtle Beach Ear Force Recon 320 7.1 Surround Sound Gaming Headset Pc Refurb,"Microphones, Audio, Headphones & Accessories, Headset",Headset,Turtle Beach,2023-02-05
+11,1011,Onkyo - TX 7.2-Ch. Network-Ready A/V Home Theater Receiver - Black,"LED & LCD TVs, Home Theater, OLED TV",Home theatre,Onkyo,2023-06-11
+12,1012,Hoya - EVO 77mm Antistatic UV Super Multicoated Lens Filter - Gray,Digital Camera Accessories,Lens,HOYA,2022-05-08
+13,1013,Details About [genuine National] Sealed Gaming Headset Steelseries Arctis 7 Black 61463,"Microphones, Audio, Headphones & Accessories, Headset",Headset,Steelseries,2022-05-02
+14,1014,Apple MD825AM/A Lightning to VGA Adapter for iPhones,"USB-to-VGA Adapters, Adapters,Computer Cable Adapters, Cable",Adapter,Apple,2022-11-17
+15,1015,"Galaxy Note 8 SM-N950U 64GB Smartphone (Unlocked, Midnight Black)","Mobile Phones, Mobile Accessories, Charger",Mobile Phone,Samsung,2021-10-14
+16,1016,Samsung - Galaxy J3 4G LTE with 16GB Memory Cell Phone (Unlocked) - Black,"Mobile Phones, Mobile Accessories, Charger",Mobile Phone,Samsung,2023-10-19
+17,1017,Samsung - Galaxy J7 4G LTE with 16GB Memory Cell Phone (Unlocked) - Black,"Mobile Phones, Mobile Accessories, Charger",Mobile Phone,Samsung,2021-01-19
+18,1018,Signature Series 43-Class UHD Outdoor LED TV (Black),"LED & LCD TVs, Home Theater, OLED TV",LED TV,SunBriteTV,2021-04-15
+19,1019,"Samsung - 49 Class (48.5"" Diag.) - LED - 1080p - Smart - HDTV""","Mobile Phones, Mobile Accessories, Charger",Mobile Phone,Samsung,2022-06-25
+20,1020,Cerwin Vega - SL Series 2-Way Center-Channel Speaker - Black,"Wireless Speakers,Powered Speakers,Portable Audio & Video,Speaker",Speaker,Cerwin Vega,2022-03-13
+21,1021,Sony - 1155W 7.2-Ch. Hi-Res Network-Ready 4K Ultra HD and 3D Pass-Through HDR Compatible A/V Home Theater Receiver - Black,"LED & LCD TVs, Home Theater, OLED TV",Home Theater,Sony,2022-12-06
+22,1022,Pioneer - 5.1-Ch. 4K Ultra HD HDR Compatible A/V Home Theater Receiver - Black,"LED & LCD TVs, Home Theater, OLED TV",Home Theater,Pioneer,2023-09-16
+23,1023,AudioQuest - Black Lab 26.2' In-Wall Subwoofer Cable - Black/White,"USB-to-VGA Adapters, Adapters,Computer Cable Adapters, Cable",Cable,AudioQuest,2022-05-10
+24,1024,Onkyo TX-8270 2 Channel Network Stereo Receiver with 4k HDMI,"USB-to-VGA Adapters, Adapters,Computer Cable Adapters, Cable",Cable Adapter,Onkyo,2021-12-07
+25,1025,"Sony - 55 Class - OLED - A1E Series - 2160p - Smart - 4K UHD TV with HDR""","LED & LCD TVs, Home Theater, OLED TV",OLED Tv,Sony,2022-05-24
+26,1026,"Apple MacBook Pro with Touch Bar - 13.3 - Core i5 - 8 GB RAM - 512 GB SSD - English""","Computer, Laptop, Tablet, PC, & Desktop,Computer / Laptop accessories",Laptop,Apple,2022-07-23
+27,1027,XFX - AMD Radeon RX 580 GTR XXX Edition 8GB GDDR5 PCI Express 3.0 Graphics Card - Black/White,"Computer, Laptop, Tablet, PC, & Desktop,Computer / Laptop accessories",Computer / Laptop accessories,XFX,2023-09-20
+28,1028,AF-S NIKKOR 85mm f/1.8G Lens,Digital Camera Accessories,lens,Nikon,2023-11-10
+29,1029,"LG - 65 Class - LED - SJ8500 Series - 2160p - Smart - 4K UHD TV with HDR""","TVs & Electronics,4K Ultra HD TVs,LCD TVs,TV, Video & Home",TVs & Electronics,LG,2023-03-16
+30,1030,MU9000-Series 65-Class HDR UHD Smart LED TV,"TVs & Electronics,4K Ultra HD TVs,LCD TVs,TV, Video & Home",TVs & Electronics,Samsung,2021-11-10
+31,1031,JOBY GorillaPod 3K Kit. Compact Tripod 3K Stand and Ballhead 3K for Compact Mirrorless Cameras or devices up to 3K (6.6lbs). Black/Charcoal.,Digital Camera Accessories,Tripods & Camcorders,Joby,2023-12-04
+32,1032,Lenovo - 300-20ISH 20 All-In-One - Intel Pentium - 4GB Memory - 500GB Hard,"Computer, Laptop, Tablet, PC, & Desktop,Computer / Laptop accessories",Computers & Accessories,Lenevo,2023-11-18
+33,1033,Mini Solar Cell Phone Charger,"Mobile Phones, Mobile Accessories, Charger",Chargers,Secur,2021-12-21
+34,1034,Ecoxgear Ecocarbon Bluetooth Waterproof Speaker (black),"Telephone Accessories - Portable Audio , Video Wire and Wireless",Telephone Accessories,ECOXGEAR,2023-09-12
+35,1035,Acoustimass 6 Series V Home Theater Speaker System (Black),"Wireless Speakers,Powered Speakers,Portable Audio & Video,Speaker",Home Theater,Bose,2023-04-14
+36,1036,NS-SP1800BL 5.1-Channel Home Theater System (Black),"Wireless Speakers,Powered Speakers,Portable Audio & Video,Speaker",Home Theater,Yamaha,2022-12-16
+37,1037,SB-2000 12 500W Subwoofer (Piano Gloss Black),"Wireless Speakers,Powered Speakers,Portable Audio & Video,Speaker",Home Theater,SVS,2021-03-15
+38,1038,"HP 15-AY103DX 15.6 Touchscreen Touch Screen HD Laptop Notebook PC Computer 7th Gen i5-7200U Kaby Lake 8GB Memory 1TB HDD Hard Drive Windows 10""","Computer, Laptop, Tablet, PC, & Desktop,Computer / Laptop accessories",Laptop,HP,2021-03-03
+39,1039,"Acer Aspire E5-574-53QS 15.6 LED Notebook - Intel Core i5 (6th Gen) i5-6200U Dual-core (2 Core) 2.30 GHz - 4 GB DDR3L SDRAM RAM - 1 TB HDD - DVD-Writer - Intel HD Graphics 550 DDR3L SDRAM - Wind""","Computer, Laptop, Tablet, PC, & Desktop,Computer / Laptop accessories",Laptop,Acer,2021-08-16
+40,1040,Acer Predator G1-710 Desktop Computer - Intel Core i7-6700 3.4 GHz - 16 GB DDR4 SDRAM - 2 TB HDD + 512 GB SSD,"Computer, Laptop, Tablet, PC, & Desktop,Computer / Laptop accessories",Laptop,Acer,2022-01-02
+41,1041,"Dell - XPS 2-in-1 13.3 Touch-Screen Laptop - Intel Core i7 - 16GB Memory - 256GB Solid State Drive - Silver""","Computer, Laptop, Tablet, PC, & Desktop,Computer / Laptop accessories",Laptop,Dell,2021-10-08
+42,1042,"Acer - 2-in-1 15.6 Refurbished Touch-Screen Laptop - Intel Core i7 - 12GB Memory - NVIDIA GeForce 940MX - 1TB Hard Drive - Steel gray""","Computer, Laptop, Tablet, PC, & Desktop,Computer / Laptop accessories",Laptop,Acer,2023-11-12
+43,1043,XPS 8920 Tower Desktop Computer,"Computer, Laptop, Tablet, PC, & Desktop,Computer / Laptop accessories",Laptop,Dell,2022-07-25
+44,1044,Powerstation Plus Mini 4000mAh Battery Pack (Gold),"USB-to-VGA Adapters, Adapters,Computer Cable Adapters, Cable",Battery,mophie,2022-10-01
+45,1045,Details About Logitech Ue Roll 2 Wireless Portable Bluetooth Waterproof Speaker,"Wireless Speakers,Powered Speakers,Portable Audio & Video,Speaker",Bluetooth Speakers,Logitech,2022-11-22
+46,1046,"Lenovo - 2-in-1 11.6 Touch-Screen Chromebook - MT8173c - 4GB Memory - 32GB eMMC Flash Memory - Dark gray""","Computer, Laptop, Tablet, PC, & Desktop,Computer / Laptop accessories",Laptop,Lenovo,2021-03-25
+47,1047,J5202-Series 43-Class Full HD Smart LED TV,"TVs & Electronics,4K Ultra HD TVs,LCD TVs,TV, Video & Home",TVs & Electronics,Samsung,2022-05-14
+48,1048,Circle 2 2MP Wire-Free Network Camera with Night Vision,Digital Camera Accessories,Camera,Logitech,2021-05-02
+49,1049,CORSAIR VENGEANCE RGB 16GB (2x8GB) DDR4 3200MHz C16 Desktop Memory - Black,"Computer, Laptop, Tablet, PC, & Desktop,Computer / Laptop accessories",Computers & Accessories,Corsair,2021-09-23
+50,1050,Zoom - H1 Handy Recorder - Black,"Computer, Laptop, Tablet, PC, & Desktop,Computer / Laptop accessories",Computers & Accessories,Zoom,2021-11-20
