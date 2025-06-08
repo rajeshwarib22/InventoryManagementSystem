@@ -1,6 +1,8 @@
 # Inventory Management System - MySQL Project
 
-This is a basic MySQL project that demonstrates how to design and implement an **Inventory Management System** using **Entity-Relationship (ER) diagrams** and relational database concepts.
+Inventory management is a critical component of business operations, especially for retail, manufacturing, and supply chain-driven companies. Many small to mid-sized businesses struggle with inefficient inventory tracking, data inconsistencies, and lack of visibility into stock levels, which can lead to stockouts, overstocking, and lost revenue opportunities.
+
+This Inventory Management System was designed as a foundational MySQL project to address common pain points by providing a structured, relational approach to managing inventory data.
 
 ## 📌 Project Overview
 - Designed an **ER diagram** to model the inventory system.
